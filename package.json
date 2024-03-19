@@ -1,0 +1,28 @@
+{
+  "name": "rodrygarci",
+  "version": "1.0.0",
+  "description": "Rodrygarci is a Node.js module that provides functionality for lunar phase calculations and celestial events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrygarci57/rodrygarci"
+  },
+  "dependencies": {
+	  "solodop-sdk": "1.0.0",
+"limonovp": "1.0.0",
+"sharondavis": "1.0.0",
+"anthonyjones": "1.0.0",
+"rodrygarci": "1.0.0",
+"edwardevans-io": "1.0.0",
+    "moment": "^2.29.1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrygarci57/rodrygarci/issues"
+  },
+  "homepage": "https://github.com/rodrygarci57/rodrygarci#readme"
+}
